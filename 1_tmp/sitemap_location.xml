@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://www.nxsensor.com/en/index.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-product-integrated-with-solar-pv-module-home.jpg</image:loc>
+       <image:caption>The NxSensor Smart MLPE (module-level power electronics) sensors integrated with solar PV modules, PV panels, and various smart junction boxes for the purpose of solar panel module-level monitoring, NEC 2017 690.12 rapid shutdown.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/background/solar-plant-hohwave-mesh.jpg</image:loc>
+       <image:caption>A wireless mesh network supports solar panel module-level monitoring and NEC 2017 690.12 rapid shutdown.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/background/solar-pv-big-data.jpg</image:loc>
+       <image:caption>A data intelligence solutions for energy portfolios with the comprehensive power tracking software platform for performance analysis and asset management.</image:caption>
+    </image:image>
+  </url>
+
+
+  <url>
+    <loc>http://www.nxsensor.com/en/solutions/pv-module-monitoring.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/solutions/solar-panel-faults.jpg</image:loc>
+       <image:caption>Typical solar panel faults, including PID, bypassing diodes, soiling, micro cracks.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/solutions/pv-module-faults-challenges.jpg</image:loc>
+       <image:caption>The challenge of solar power management and operation and maintenance.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/solutions/nxsensor-topology.png</image:loc>
+       <image:caption>The Nxsensor solar PV module-level monitoring system networks.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/solutions/financial-return-yield-more-save-more.jpg</image:loc>
+       <image:caption>The financial returns of the Nxsensor solar PV monitoring system.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/solutions/pv-module-rapid-shutdown.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/solutions/nxsensor-topology-rapid-shutdown.png</image:loc>
+       <image:caption>The Nxsensor rapid shutdown meets NEC 2017 690.12 Rapid Shutdown safety requirements.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/solutions/rapid-shutdown-wireless-message.png</image:loc>
+       <image:caption>The Nxsensor rapid shutdown's message flow by wireless communication and how it works.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/products/sensor-unit.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-product-integrated-with-solar-pv-module.jpg</image:loc>
+       <image:caption>The NxSensor sensor unit and MLPE device is integrated into solar panel's junction box for monitoring, NEC 2017 rapid shutdown, and power optmization.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/NxSensor-junction-box.jpg</image:loc>
+       <image:caption>A photo of NxSensor sensor unit in a solar panel junction box to illustrate how to monitor a solar panel's performance.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-topology-modules.png</image:loc>
+       <image:caption>A view of the NxSensor system architecture, module-level data communication via HOHWave 2.4GHz ISM Wireless Mesh Networks.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-configuration-mobile-app.png</image:loc>
+       <image:caption>NxSensor configuration mobile APP to configure mobile's electrical connection attribute, add RFID function to solar panel.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/products/smart-junction-box.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-topology-modules.png</image:loc>
+       <image:caption>NxSensor system architecture at solar panel stage, module-level monitoring and module-level rapid shutdown.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/solar-pv-smart-junction-box-A.jpg</image:loc>
+       <image:caption>NxSensor Smart Junction Box Model-A for Trinasolar, Jasolar Solar PV modules.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/solar-pv-smart-junction-box-B.jpg</image:loc>
+       <image:caption>NxSensor Smart Junction Box Model-A for Yingli, Jinko, GCL-power Solar PV modules.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/solar-pv-smart-junction-box-C.jpg</image:loc>
+       <image:caption>NxSensor Smart Junction Box Model-A for Canadian, Jinko, SunTech Solar PV modules.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/solar-pv-smart-junction-box-S-A.jpg</image:loc>
+       <image:caption>NxSensor Smart Junction Box Model-A for Almaden double-glass Solar PV modules.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/products/add-on-retrofit-box-x.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/solar-pv-add-on-retrofit-junction-box-x.jpg</image:loc>
+       <image:caption>NxSensor Add-on Retrofit Junction Box Model-X for exsiting solar power systems or after solar PV markets.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/add-on-retrofit-junction-box-wiring-steps.png</image:loc>
+       <image:caption>Wiring and connecting of Add-on/retrofit solar panel sensors and MLPE devices.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-topology-add-on-junction-box.png</image:loc>
+       <image:caption>Add-on/retrofit junction box's role in the NxSensor system architecture, module-level data communication via HOHWave 2.4GHz ISM Wireless Mesh Networks.</image:caption>
+    </image:image>
+  </url>
+
+
+  <url>
+    <loc>http://www.nxsensor.com/en/products/add-on-retrofit-box-m.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/solar-pv-add-on-retrofit-junction-box-m.jpg</image:loc>
+       <image:caption>NxSensor Add-on Retrofit Junction Box Model-M with piercing clips for exsiting solar power systems.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/box-m-piercing-clip-inside.jpg</image:loc>
+       <image:caption>Wiring and connecting of box-M and clips of the solar add-on / retrofit junction box.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-topology-add-on-clip.png</image:loc>
+       <image:caption>Add-on/retrofit junction box's role in NxSensor system architecture, module-level data communication via HOHWave 2.4GHz ISM Wireless Mesh Networks.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/products/iot-gateway.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/iot-gateway.jpg</image:loc>
+       <image:caption>NxSensor IoT Gateway for wireless mesh network and solar panel module-level data communication, it is a zigbee substitute.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/iot-gateway-solar-panel-powered.jpg</image:loc>
+       <image:caption>The NxSensor IoT Wireless Gateways support wireless mesh sensor networks.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-topology-gateway.png</image:loc>
+       <image:caption>The gateway's role in NxSensor system architecture, data communication via HOHWave 2.4GHz ISM Wireless Mesh Networks</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/nxsensor-topology-gateway-ext.png</image:loc>
+       <image:caption>Add more gateways to expand network capacity, data communication via HOHWave 2.4GHz ISM Wireless Mesh Networks</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/products/hohwave.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/data-communication-comparison.png</image:loc>
+       <image:caption>Comparison of solar PV panel-level data communication technologies and typical IoT wireless protocols including LPWAN like ZigBee, NB-IoT, LoRaWan, SigFox and PLC (Power Line Communication). It is a zigbee substitute.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/hohwave-mesh-how-it-works.png</image:loc>
+       <image:caption>HOHWave™ wireless mesh network, how it works, and its topology forming process.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/hohwave-pv-module-level-data-communication.jpg</image:loc>
+       <image:caption>HOHWave™ wireless mesh network for solar PV module-level monitoring and digital transformation.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/products/cloud.html</loc>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/cloud-ai-module-voltage-statistics.png</image:loc>
+       <image:caption>Solar power cloud-based platform analyzes PV module level voltage data in statistic probability distribution tools, to find the defective panels and faults</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/cloud-ai-module-voltage-timewave.png</image:loc>
+       <image:caption>Solar power cloud platform analyzes the typical faults of the solar panels.</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://www.nxsensor.com/en/img/products/cloud-web-portal.jpg</image:loc>
+       <image:caption>The user interfaces of the solar PV module-level monitoring and solar plant monitoring systems.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/company/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>http://www.nxsensor.com/en/company/about-us.html</loc>
+  </url>
+
+</urlset>

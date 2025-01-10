@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="../img/nxsensor-logo.png" type="image/png" sizes="16x16">
+<title>Rapid shutdown | NxSensor</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Jiayan Li" />
+<meta name="keywords" content="smart solar junction box, module-level disconnect, rapid shutdown, NEC 2017, NEC 690.12">
+<meta name="description" content="Smart solar panel junction box meets NEC 2017 690.12 Rapid Shutdown requirements.">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118765111-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118765111-2');
+</script>
+
+
+<!-- <link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css" />
+<!-- <link href="../css/font-awesome.css" rel="stylesheet" > -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link href="../css/style.css" rel="stylesheet" type="text/css" media="all">
+
+</head>
+
+
+<body>
+<div class="wrapper" id="main-top">
+  <div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top fixed-main">
+    <div class="container">
+
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="navbar-brand nav-white" href="../index.html"><img id="brand-img" src="../img/nxsensor-logo-blue.png" alt="NxSensor Logo" height="32" /></a>
+      </div>
+
+      <div class="collapse navbar-collapse navbar-right" id="bs-navbar-collapse-1">
+        <ul class="nav navbar-nav nav-white">
+            <li><a href="../index.html">Home</a></li>
+            <li>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Solutions <b class="caret"></b></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="../solutions/pv-module-monitoring.html">Module-Level monitoring</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../solutions/pv-module-rapid-shutdown.html">Rapid shutdown</a></li>
+                </ul>
+            </li>
+            <li>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <b class="caret"></b></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="../products/sensor-unit.html">Sensor unit</a></li>
+                  <li><a href="../products/smart-junction-box.html">Smart junction box</a></li>
+                  <li><a href="../products/add-on-retrofit-box-x.html">Add-on / Retrofit box - X</a></li>
+<li><a href="../products/add-on-retrofit-box-m.html">Add-on / Retrofit box - M</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../products/iot-gateway.html">Gateway</a></li>
+                  <li><a href="../products/hohwave.html">HOHWave™ Mesh Network</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../products/cloud.html">Cloud software</a></li>
+                </ul>
+            </li>
+            <li>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Company <b class="caret"></b></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="../company/contact.html">Contact</a></li>
+                  <li class="divider"></li>
+                  <li><a href="../company/about-us.html">About Us</a></li>
+                </ul>
+            </li>
+        </ul>
+      </div>
+    </div>
+    </nav><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+
+  <section id="inner-headline">
+  <div class="container">
+    <div class="page-header">
+      <div class="row">
+        <div class="col-lg-12">
+          <br>
+          <ul class="breadcrumb">
+            <li><a href="../index.html"><i class="fa fa-home"></i> Home</a><i class="icon-angle-right"></i></li>
+            <li class="active">Solutions<i class="icon-angle-right"></i></li>
+            <li class="active">Rapid shutdown</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
+
+  <section id="main-content">
+    <div class="container">
+
+        <div class="row">
+          <div class="col-lg-12">
+
+          <h1>Rapid shutdown</h1>
+          <div class="solidline"><br /></div>
+
+          <h2>Overview</h2>
+          <p>
+          The National Electrical Code (NEC) applies to the construction of PV systems installed on buildings. The 2014 version of the NEC includes a requirement for rapid shutdown of controlled conductors outside the PV array boundary.  The proposed 2017 NEC modified that rule to effectively require shutdown at the module level, which could have a dramatic impact on how systems are designed and installed moving forward.
+          </p>
+
+
+          <h2>System Components</h2>
+          <ul class="keypoints">The system is comprised of three key components:
+            <li>The sensor unit: it is integrated into PV module, and has the functions of monitoring and rapid shutdown.</li>
+            <li>The gateway: it transfers information with sensor units. It receives rapid shutdown signals from the RSD sources.</li>
+            <li>The RSD sources: the devices that generate the rapid shutdown signals, could be inverters or RSD safe buttons.</li>
+          </ul>
+
+          <div align="center">
+            <img class="nobottom" src="../img/solutions/nxsensor-topology-rapid-shutdown.png" alt="The components in a NxSensor rapid shutdown system, including sensor units, gateways, RSD signals from inverters or buttons." width="800" />
+            <p class="imgdesc">The NxSensor RSD system</p>
+          </div>
+
+
+          <h2>How it works</h2>
+          <p>The sensor units continuously and periodically get "allow-to-work" messages from the gateway. When rapid shutdown is triggered, the gateway receives RSD signal from the inverters or RSD buttons, this could be achieved by either data buses or simple on/off signals. After that, the gateway stops sending "allow-to-work" messages. If the sensor unit doesn't get "allow-to-work" messages within 10 seconds, it would cut off the associated PV module's power output.</p>
+
+          <div align="center">
+            <img class="nobottom" src="../img/solutions/rapid-shutdown-wireless-message.png" alt="solar PV power NEC 2017 690.12 rapid shutdown requirements, wireless message work flow, module-level shutdown" width="560" />
+            <p class="imgdesc">The rapid shutdown message flow</p>
+          </div>
+
+
+          <p>Since the sensor unit is powered by the PV module, it is still able to continue to listen to the "allow-to-work" messages during the shutdown stage, this is for the purpose of recovering the PV module's power output later. </p>
+
+          <p>Because the sensor units and the gateway are communicated by wireless method, the PV module's power could be completely shut down. In comparison with the PLC (Power-line communication) based rapid shutdown solutions, they would need a low voltage output on the PV module, keeping the sensor unit's communication availability, in order to avoid the system deadlock.</p>
+
+          <h2>Features</h2>
+          <ul class="keypoints">
+            <li>Meets NEC 2017 690.12 Rapid Shutdown requirements;</li>
+            <li>HOHWave™ wireless mesh network based communication;</li>
+            <li>PV module could be completely shutdown with 0 V output;</li>
+          </ul>
+
+          <h2>Downloads</h2>
+            <ul class="downloads">
+              <li>
+                <p><i class="fa fa-file-pdf-o"></i><a href="../resources/product-catalog-nxsensor-MLPE.pdf"> Product Catalog: NxSensor MLPE products</a></p>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+    </div>
+  </section>
+
+  <!-- Footer Section -->
+  <div id="footer-fixed-sub">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-md-6">
+            <p class="copyright">Copyright © 2018 NxSensor Technology. All Rights Reserved.</p>
+            <!-- <p class="copyright text-muted ">沪ICP备16040630号</p> -->
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <ul class="social-network">
+            <li><a href="../company/contact.html#email"  title="E-mail"><i class="fa fa-envelope-o"></i></a></li>
+            <li><a href="../company/contact.html#phone"  title="Tel"><i class="fa fa-phone"></i></a></li>
+            <li><a href="../company/contact.html#address" title="Address"><i class="fa fa-map-o"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+</div><!-- Wrapper-->
+
+<a class="scrollup" href="#main-top" ><i class="fa fa-arrow-up fa-fw"></i></a>
+
+<!-- Jquery and Js Plugins -->
+<!-- <script type="text/javascript" src="./js/jquery-2.1.1.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="./js/bootstrap.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!-- <script type="text/javascript" src="../js/plugins.js"></script> -->
+<!-- <script type="text/javascript" src="../js/custom.js"></script> -->
+
+
+</body>
+</html>
